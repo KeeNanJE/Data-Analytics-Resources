@@ -15,3 +15,5 @@ Starting this list of resources as I start my data analytics journey
 ## DOMO
 
 ## Looker
+- https://lookerstudio.google.com/
+- https://www.youtube.com/watch?v=EmkNPAzla0Y
