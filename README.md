@@ -9,12 +9,16 @@ Starting this list of resources as I start my data analytics journey
 ### YouTube Data Friends
 - [SQL Belle](https://www.youtube.com/@sqlbelle) (She is my absolute favorite!!)
 
-## Tableau
+## Visualization Info
+### Resources
+- https://www.storytellingwithdata.com/
+  
+### Tableau
 
-## Power BI
+### Power BI
 
-## DOMO
+### DOMO
 
-## Looker
+### Looker
 - https://lookerstudio.google.com/
 - https://www.youtube.com/watch?v=EmkNPAzla0Y
