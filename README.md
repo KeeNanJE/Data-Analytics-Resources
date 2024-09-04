@@ -15,6 +15,7 @@ Starting this list of resources as I start my data analytics journey
 ## Visualization Info
 ### Resources
 - https://www.storytellingwithdata.com/
+- [Ways to visualize financial data](https://flourish.studio/blog/visualizing-financial-data/)
   
 ### Tableau
 
